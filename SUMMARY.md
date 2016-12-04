@@ -24,6 +24,6 @@
     * [GLOSSARY.md](GLOSSARY.md)
     * [Demo Page](chapter3/demo_page.md)
 
+----
 
-## Part with 2 level heading
-### Part with 3 level heading
+## Plugins
